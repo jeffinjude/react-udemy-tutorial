@@ -1,4 +1,4 @@
-This is the project to demonstrate basics of react.
+This project is after burger builder was integrated with a backend api (firebase).
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 

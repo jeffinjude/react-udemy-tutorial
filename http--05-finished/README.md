@@ -1,4 +1,4 @@
-This is the project to demonstrate basics of react.
+This project demonstartes calling rest api from react using axios.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 

@@ -1,0 +1,1 @@
+This is the project to demonstrate react components like lifecycle hooks, hoc etc
